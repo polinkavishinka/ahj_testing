@@ -1,4 +1,4 @@
-"ahj-5-testing1" 
+"ahj_testing" 
 --------------------
 
 [![Build status](https://ci.appveyor.com/api/projects/status/va7id93v99pctdy8?svg=true)](https://ci.appveyor.com/project/polinkavishinka/ahj_testing)
